@@ -74,8 +74,4 @@
   </a>
 </p>
 
-<br />
-
----
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Navipro70)](https://github.com/Navipro70)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Navipro70&show_icons=true&theme=radical)](https://github.com/Navipro70)
