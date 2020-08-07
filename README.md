@@ -1,4 +1,4 @@
-### Hi there, I'm Dmitry 👋
+<h2> Hi there, I'm Dmitry <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/> </h2>
 
 ## I'm a Student, Developer, and Teacher!
 - 🔭 I’m currently working on a Mobile app 👀
@@ -43,7 +43,6 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
-qweqwew
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
