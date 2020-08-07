@@ -10,7 +10,6 @@
 ### Connect with me:
 
 <p align='left'>
-<!-- <a href="https://dev.to/stephenajulu"><img height="30" src="https://raw.githubusercontent.com/stephenajulu/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp; -->
 <a href="https://www.linkedin.com/in/дмитрий-мататов-b074371b1/?locale=en_US">
   <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
   </a>
@@ -79,14 +78,4 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Navipro70)](https://github.com/Navipro70)
