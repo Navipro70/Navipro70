@@ -1,6 +1,4 @@
-<h2> Hi there, I'm Dmitry <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/> </h2>
-
-## I'm a Student and Frontend Developer!
+## Hi there, my name is Dmitry. I'm a Student and Frontend Developer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
 - 🔭 I’m currently working on a Mobile app 👀
 - 🌱 I’m currently learning everything 🎓
 - 👯 I’m looking to any offers 😁
@@ -14,9 +12,6 @@
   <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
   </a>
 </p>
-
-
-<br />
 
 ### Languages and Tools:
 
@@ -73,5 +68,7 @@
     <img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
   </a>
 </p>
+
+<br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Navipro70&show_icons=true&theme=radical)](https://github.com/Navipro70)
