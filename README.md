@@ -11,7 +11,8 @@
   <a href="https://www.linkedin.com/in/дмитрий-мататов-b074371b1/?locale=en_US">
     <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
   </a>
-  <a href="https://www.codewars.com/users/navi_pro70>
+  &nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/navi_pro70">
     <img height="30" src="https://avatars2.githubusercontent.com/u/5387632?s=200&v=4">
   </a>
 </p>
