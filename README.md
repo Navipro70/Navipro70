@@ -12,7 +12,7 @@
     <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
   </a>
   <a href="https://www.codewars.com/users/navi_pro70>
-    <img height="30" src="https://miro.medium.com/fit/c/336/336/1*lheMbECsqf1X7-xxzr8kJQ.png">
+    <img height="30" src="https://avatars2.githubusercontent.com/u/5387632?s=200&v=4">
   </a>
 </p>
 
