@@ -8,8 +8,11 @@
 ### Connect with me:
 
 <p align='left'>
-<a href="https://www.linkedin.com/in/дмитрий-мататов-b074371b1/?locale=en_US">
-  <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
+  <a href="https://www.linkedin.com/in/дмитрий-мататов-b074371b1/?locale=en_US">
+    <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
+  </a>
+  <a href="https://www.codewars.com/users/navi_pro70>
+    <img height="30" src="https://miro.medium.com/fit/c/336/336/1*lheMbECsqf1X7-xxzr8kJQ.png">
   </a>
 </p>
 
