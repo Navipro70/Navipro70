@@ -13,7 +13,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.codewars.com/users/navi_pro70">
-    <img height="30" src="https://avatars2.githubusercontent.com/u/5387632?s=200&v=4">
+    <img height="30" src="https://i.ibb.co/3p4pmPL/Screen-Shot-2020-09-30-at-22-08-32.png">
   </a>
 </p>
 
