@@ -1,6 +1,6 @@
 ## Hi there, my name is Dmitry. I'm a Student, Frontend and Mobile Developer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
 - 🔭 I’m currently working on a Mobile app 👀
-- 🌱 I’m currently learning python for backend 🎓
+- 🌱 I’m currently learning python and C++, moreover I spend a lot of time on algorithms and data structures 🎓
 - 👯 I’m not looking to any offers, because at the moment I am focused on broadening my horizons 😁
 - 🥅 2020 Goals: Finish research for 10+ tehlogies in my notion checklist 💪
 - ⚡ Fun fact: I love to read books and calisthenics, also I dream to write my own neural network 🕶
