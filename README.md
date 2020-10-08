@@ -40,6 +40,10 @@
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org">
+    <img height="30" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://reactjs.org">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   </a>
@@ -62,6 +66,10 @@
   &nbsp;&nbsp;
   <a href="https://nodejs.org/en/">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.docker.com">
+    <img height="30" src="https://logo-logos.com/wp-content/uploads/2016/10/Docker_logo.png">
   </a>
   &nbsp;&nbsp;
   <a href="https://git-scm.com">
