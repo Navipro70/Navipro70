@@ -1,9 +1,9 @@
-## Hi there, my name is Dmitry. I'm a Student, Frontend and Mobile Developer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
-- 🔭 I’m currently working on a Mobile app 👀
-- 🌱 I’m currently learning python and C++, moreover I spend a lot of time on algorithms and data structures 🎓
-- 👯 I’m not looking to any offers, because at the moment I am focused on broadening my horizons 😁
+## Hi there, my name is Dmitry. I'm Frontend and Mobile Developer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
+- 🔭 I’m currently working on a several Mobile and Frontend apps 👀
+- 🌱 Also I’m currently learning python, C++, NodeJS, moreover I spend a lot of time on algorithms and data structures 🎓
+- 👯 I’m interested in any offers, if you have something - [just write me](https://www.linkedin.com/in/dmitry-matatov-b074371b1/) 😁
 - 🥅 2020 Goals: Finish research for 10+ tehlogies in my notion checklist 💪
-- ⚡ Fun fact: I love to read books and calisthenics, also I dream to write my own neural network 🕶
+- ⚡ Fun fact: I love travel, read books and play guitar, also I want to write my own neural network 🕶
 
 ### Connect with me:
 
