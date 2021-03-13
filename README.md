@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on a several Mobile and Frontend apps 👀
 - 🌱 Also I’m currently learning python, C++, NodeJS, moreover I spend a lot of time on algorithms and data structures 🎓
 - 👯 I’m interested in any offers, if you have something - [just write me](https://www.linkedin.com/in/dmitry-matatov-b074371b1/) 😁
-- 🥅 2020 Goals: Finish research for 10+ tehlogies in my notion checklist 💪
+- 🥅 2021 Goals: Finish research for 10+ tehlogies in my notion checklist 💪
 - ⚡ Fun fact: I love travel, read books and play guitar, also I want to write my own neural network 🕶
 
 ### Connect with me:
