@@ -1,5 +1,5 @@
 ## Hi there, my name is Dmitry. I'm Frontend and Mobile Developer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
-- 🔭 I’m currently working on a several Mobile and Frontend apps 👀
+- 🔭 I’m currently working on several Mobile and Frontend apps 👀
 - 🌱 Also I’m currently learning python, C++, NodeJS, moreover I spend a lot of time on algorithms and data structures 🎓
 - 👯 I’m interested in any offers, if you have something - [just write me](https://www.linkedin.com/in/dmitry-matatov-b074371b1/) 😁
 - 🥅 2021 Goals: Finish research for 10+ tehlogies in my notion checklist 💪
