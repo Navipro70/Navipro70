@@ -7,8 +7,8 @@
 ### Connect with me:
 
 <p align='left'>
-  <a href="https://www.linkedin.com/in/дмитрий-мататов-b074371b1/?locale=en_US">
-    <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
+  <a href="https://www.linkedin.com/in/dmitry-matatov-b074371b1/">
+    <img height="30" src="https://thumbs.dreamstime.com/b/colored-linkedin-logo-colored-linkedin-logo-vector-ai-file-easily-editable-have-white-background-high-resolution-155698459.jpg">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.codewars.com/users/navi_pro70">
@@ -19,8 +19,8 @@
 ### Languages and Tools:
 
 <p>
-  <a href="https://www.jetbrains.com/webstorm/">
-    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/WebStorm.png/1200px-WebStorm.png">
+  <a href="https://code.visualstudio.com/">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
   </a>
   &nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/HTML5">
