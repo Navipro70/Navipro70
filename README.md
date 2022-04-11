@@ -1,9 +1,8 @@
 ## Hi there, my name is Dmitry. I'm Frontend and Mobile Developer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
-- 🔭 I’m currently working on several Mobile and Frontend apps 👀
-- 🌱 Also I’m currently learning python, C++, NodeJS, moreover I spend a lot of time on algorithms and data structures 🎓
-- 👯 I’m interested in any offers, if you have something - [just write me](https://www.linkedin.com/in/dmitry-matatov-b074371b1/) 😁
-- 🥅 2021 Goals: Finish research for 10+ tehlogies in my notion checklist 💪
-- ⚡ Fun fact: I love travel, read books and play guitar, also I want to write my own neural network 🕶
+- 👀 I’m currently working on several Mobile (React Native) apps
+- 🎓 Also I’m currently learning architecture and code improvement approaches. Moreover I spend a lot of time on learning English
+- 🥅 2022 Goals: Finish 6 of 28 books of fundamental knowledges
+- 👯 I’m interested in any offers, if you have something - [just write me](https://www.linkedin.com/in/dmitry-matatov-b074371b1/)
 
 ### Connect with me:
 
