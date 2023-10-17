@@ -1,7 +1,7 @@
 ## Hi there, my name is Dmitry. I'm Frontend and Mobile Developer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
 - 👀&#160; I’m currently working on several Mobile (React Native) apps
 - 🎓&#160; Also I’m currently learning architecture and code improvement approaches. Moreover I spend a lot of time on learning English
-- 🥅&#160; 2022 Goals: Finish 6 of 28 books of fundamental knowledges
+- 🥅&#160; 2023 Goals: Finish 6 of 28 books of fundamental knowledges
 - 👯&#160; I’m interested in any offers, if you have something - [just write me](https://www.linkedin.com/in/dmitry-matatov-b074371b1/)
 
 ### Connect with me:
